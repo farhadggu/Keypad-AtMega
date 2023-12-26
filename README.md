@@ -6,7 +6,7 @@ Keypad uses matrix system in order to work.
 
 For example, I am using a keypad which has 12 buttons
 
-<img src="https://images.theengineeringprojects.com/image/webp/2015/12/keypad2.png.webp?ssl=1"]
+<img src="https://images.theengineeringprojects.com/image/webp/2015/12/keypad2.png.webp?ssl=1"/>
 
 Now you can see its a 12 button keypad so it has total 3 columns and 4 rows and similarly there are 7 pins to control these 12 buttons.
 
