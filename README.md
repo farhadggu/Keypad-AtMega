@@ -1,4 +1,4 @@
-## interface keypad with Arduino in Proteus ISIS and AtmelStudio
+## Interface Keypad with Arduino in Proteus ISIS and AtmelStudio
 
 How keypad works ??
 
